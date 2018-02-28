@@ -85,6 +85,9 @@ environments.
   an empty virtual environment, [like this](https://imgur.com/a/FNQpE).
 
   If that does not work, follow the tutorial [here](https://youtu.be/tNGrxDftclA).
+### Additional Suggestion For Windows Users
+
+You may also simply follow the instructions to run the project using the Linux command line on your Windows device. For the installation instructions provided here:https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 ### For Mac and Linux users:
 
